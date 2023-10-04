@@ -1,0 +1,9 @@
+void main() {
+  
+String firstName = 'Nur Azzahra';
+String lastName = 'Maudina';
+  
+  var fullName = '$firstName ${lastName}';
+  print(fullName);
+  
+}
