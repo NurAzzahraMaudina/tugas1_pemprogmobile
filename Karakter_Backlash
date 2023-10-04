@@ -1,0 +1,6 @@
+void main() {
+  
+var text = 'this is \'Nur Azzahra Maudina\' \$angat canti';
+print(text);
+
+}
