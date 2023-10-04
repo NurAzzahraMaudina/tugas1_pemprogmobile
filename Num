@@ -1,0 +1,8 @@
+void main() {
+num number = 30;
+print(number);
+  
+number = 30.5;
+print(number);
+  
+}
