@@ -1,0 +1,10 @@
+void main() {
+  
+var longString = '''
+Aku tanpamu ga ngaruh
+aku tanpa duit
+aduh rapuh
+''';
+ print(longString);
+  
+}
