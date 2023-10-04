@@ -1,0 +1,11 @@
+void main() {
+// This is variable 
+  var name = 'Nur Azzahra Maudina';
+  
+  /**
+   * ini adalah komentar
+   * lebih dari satu baris
+   */
+  print(name);
+  
+}
