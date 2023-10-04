@@ -1,0 +1,10 @@
+void main() {
+   String name;
+   name='Nama saya Nur Azzahra Maudina';
+    
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+}
