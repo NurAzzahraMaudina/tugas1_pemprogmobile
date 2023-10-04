@@ -1,0 +1,7 @@
+void main() {
+var firstName = 'Nur';
+final lastName = 'Azzahra Maudina';
+
+  firstName = 'Nur';
+  lastName = 'Azzahra Maudina';
+}
