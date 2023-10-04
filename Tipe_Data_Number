@@ -1,0 +1,8 @@
+void main() {
+int number1 = 30;
+double number2 = 30.5;
+    
+print(number1);
+print(number2);
+  
+}
