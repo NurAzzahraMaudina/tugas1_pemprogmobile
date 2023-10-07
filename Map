@@ -1,0 +1,28 @@
+void main(){
+
+  Map<String, String> map1 = {};
+  var map2 = Map<String, String>();
+  var map3 = <String, String>{};
+
+  print(map1);
+
+  var name = <String, String>{
+    'first': 'Nur',
+    'middle': 'Azzahra',
+    'last': 'Maudina',
+  };
+
+  // name['first'] = 'Nur';
+  // name['middle'] = 'Azzahra';
+  // name['last'] = 'Maudina';
+
+  print(name);
+  print(name['first']);
+
+  name['middle'] = 'Iqbaal';
+  print(name);
+
+  name.remove('last');
+  print(name);
+
+}
